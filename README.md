@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm a **student of Automation, Cybernetics, and Robotics** at Gdańsk University of Technology.  
+I'm a **student of Automation, Cybernetics and Robotics** at Gdańsk University of Technology.  
 I mostly focus on **Python & C++ development**, with a strong interest in **music, audio processing, and machine learning**.  
 
 ### 🚀 What I do:  
