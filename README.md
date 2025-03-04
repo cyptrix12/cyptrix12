@@ -13,5 +13,5 @@ I mostly focus on **Python & C++ development**, with a strong interest in **musi
 - **Guitar sound classification project** – applying ML to recognize instrument models  
 
 ### 📫 Get in touch:  
-- GitHub: You're already here! 😉  
+- GitHub: You've done it!
 - LinkedIn: https://www.linkedin.com/in/cyprian-zasada/
