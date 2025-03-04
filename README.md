@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @cyptrix12
-- 👀 I’m interested in u know
-- 🌱 I’m currently learning u knpw
-- 💞️ I’m looking to collaborate on uknow
-- 📫 How to reach me idk
+# Hi there! 👋  
 
-<!---
-cyptrix12/cyptrix12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **student of Automation, Cybernetics, and Robotics** at Gdańsk University of Technology.  
+I mostly focus on **Python & C++ development**, with a strong interest in **music, audio processing, and machine learning**.  
+
+### 🚀 What I do:  
+- Writing code in **Python** & **C++**  
+- Exploring **audio signal processing & ML**  
+- Working on personal and academic projects  
+
+### 🏆 Highlights:  
+- **Hackathon winner** – developed a real-time route-planning app  
+- **Guitar sound classification project** – applying ML to recognize instrument models  
+
+### 📫 Get in touch:  
+- GitHub: You're already here! 😉  
+- LinkedIn: https://www.linkedin.com/in/cyprian-zasada/
